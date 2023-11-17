@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+}
+p{
+    color: white;
+}
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+button{
+    margin: 10px;
+    background-color: rgb(218, 97, 117);
+}
+
+.lesgo{
+    text-align: center;
+}
+
+.bodyi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
