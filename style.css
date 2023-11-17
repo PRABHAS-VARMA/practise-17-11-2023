@@ -20,12 +20,44 @@ button{
 
 .lesgo{
     text-align: center;
+    background-color: white;
+}
+p{
+    background-color: white;
+    color: black;
 }
 
 .bodyi{
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
+}
+
+.one{
+    background-color: white;
+}
+
+#imga{
+    height: 250px;
+    width: 400px;
+    border: 12px solid violet;
+}
+#button1{
+    margin:25px;
+    background-color: black;
+    color: white;
+}
+
+.imgdiv{
+    background-color: white;
+    margin-top: 25px;
+}
+
+#text1{
+    margin-bottom: 0px;
+    background-color: black;
+    color: white;
 }
